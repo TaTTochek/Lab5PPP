@@ -1,0 +1,9 @@
+4
+42
+abc
+16
+bac
+4
+cab
+4
+asdfg
